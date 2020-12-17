@@ -1,0 +1,125 @@
+	{
+	"frames": [
+		{
+			"filename": "harryFalls.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 373,
+				"h": 204
+			},
+
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 373,
+				"h": 204
+			},
+
+			"sourceSize": {
+				"w": 373,
+				"h": 204
+			}
+		},
+		{
+			"filename": "harryFights.png",
+			"frame": {
+				"x": 376,
+				"y": 1,
+				"w": 337,
+				"h": 409
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 337,
+				"h": 409
+			},
+			"sourceSize": {
+				"w": 337,
+				"h": 409
+			}
+		},
+
+		{
+			"filename": "harryGoes1.png",
+			"frame": {
+				"x": 715,
+				"y": 1,
+				"w": 155,
+				"h": 406
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 155,
+				"h": 406
+			},
+			"sourceSize": {
+				"w": 155,
+				"h": 406
+			}
+		},
+
+		{
+			"filename": "harryGoes2.png",
+			"frame": {
+				"x": 872,
+				"y": 1,
+				"w": 174,
+				"h": 406
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 174,
+				"h": 406
+			},
+			"sourceSize": {
+				"w": 174,
+				"h": 406
+			}
+		},
+		
+		{
+			"filename": "harryStands.png",
+			"frame": {
+				"x": 1048,
+				"y": 1,
+				"w": 126,
+				"h": 402
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 126,
+				"h": 402
+			},
+			"sourceSize": {
+				"w": 126,
+				"h": 402
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet-harry.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1175,
+			"h": 411
+		},
+		"scale": "1"
+	}
+}

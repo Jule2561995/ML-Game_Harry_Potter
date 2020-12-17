@@ -1,0 +1,64 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/LevelMap.tmx",
+    "expandedProjectPaths": [
+        "assets",
+        "."
+    ],
+    "fileStates": {
+        "assets/LevelMap.tmx": {
+            "scale": 0.3561,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1333.8949733221002,
+                "y": 2335.018253299635
+            }
+        },
+        "assets/medievalTile.tsx": {
+            "scaleInDock": 0.5786,
+            "scaleInEditor": 0.4674
+        },
+        "assets/spritesheet-medievalTile.tsx": {
+            "scaleInDock": 0.2487,
+            "scaleInEditor": 0.89
+        },
+        "assets/tiled-medievalTile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2.82
+        },
+        "levelMap.tmx": {
+            "scale": 0.1437,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 254.00139178844825,
+                "y": 1165.6228253305499
+            }
+        }
+    },
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 70,
+    "map.tileWidth": 70,
+    "map.width": 50,
+    "openFiles": [
+        "assets/LevelMap.tmx",
+        "assets/medievalTile.tsx"
+    ],
+    "project": "TiledMap.tiled-project",
+    "recentFiles": [
+        "assets/medievalTile.tsx",
+        "assets/LevelMap.tmx",
+        "assets/tiled-medievalTile.tsx",
+        "assets/spritesheet-medievalTile.tsx",
+        "levelMap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.tileSize": {
+        "height": 72,
+        "width": 72
+    }
+}

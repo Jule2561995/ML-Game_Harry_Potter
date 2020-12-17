@@ -1,0 +1,57 @@
+{"frames": {
+
+"ronFalls.png":
+{
+	"frame": {"x":0,"y":0,"w":413,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":413,"h":212},
+	"sourceSize": {"w":413,"h":212}
+},
+"ronFights.png":
+{
+	"frame": {"x":413,"y":0,"w":377,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":377,"h":420},
+	"sourceSize": {"w":377,"h":420}
+},
+"ronGoes1.png":
+{
+	"frame": {"x":790,"y":0,"w":165,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":420},
+	"sourceSize": {"w":165,"h":420}
+},
+"ronGoes2.png":
+{
+	"frame": {"x":955,"y":0,"w":200,"h":418},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":418},
+	"sourceSize": {"w":200,"h":418}
+},
+"ronStands.png":
+{
+	"frame": {"x":1155,"y":0,"w":159,"h":415},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":415},
+	"sourceSize": {"w":159,"h":415}
+}},
+
+"animations": {
+	"ronGoes": ["ronGoes1.png","ronGoes2.png", "ronStands.png"]
+	
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet-ron.png",
+	"format": "RGBA8888",
+	"size": {"w":1314,"h":420},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ab49ae0414ee4d20ec19572a4aa3441d:d37ac0e559da9b95f3052b88544b5d17:8b2da03c7a670d7d630548e944e365e8$"
+}
+}
